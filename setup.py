@@ -15,7 +15,8 @@ setup(
     entry_points={
         'console_scripts': [
             'jujube=jujube_pill:jujube',
-            'pill=jujube_pill:pill'
+            'pill=jujube_pill:pill',
+            'jujubepill=jujube_pill:jujube_pill'
         ]
     }
 )

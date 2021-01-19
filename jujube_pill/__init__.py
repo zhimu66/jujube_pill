@@ -8,3 +8,8 @@ def jujube():
 
 def pill():
     print('药丸')
+
+def jujube_pill():
+    print("吃枣药丸")
+
+
